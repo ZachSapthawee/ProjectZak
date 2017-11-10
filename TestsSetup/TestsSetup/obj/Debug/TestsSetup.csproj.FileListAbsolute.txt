@@ -1,0 +1,10 @@
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\bin\Debug\TestsSetup.exe.config
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\bin\Debug\TestsSetup.exe
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\bin\Debug\TestsSetup.pdb
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\obj\Debug\TestsSetup.csprojResolveAssemblyReference.cache
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\obj\Debug\TestsSetup.Form1.resources
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\obj\Debug\TestsSetup.Properties.Resources.resources
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\obj\Debug\TestsSetup.csproj.GenerateResource.Cache
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\obj\Debug\TestsSetup.csproj.CoreCompileInputs.cache
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\obj\Debug\TestsSetup.exe
+C:\Users\Zak\Desktop\TestsSetup\TestsSetup\obj\Debug\TestsSetup.pdb
