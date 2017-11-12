@@ -1,0 +1,11 @@
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\bin\Debug\Coffee_POS.exe.config
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\bin\Debug\Coffee_POS.exe
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\bin\Debug\Coffee_POS.pdb
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\obj\Debug\Coffee_POS.Form1.resources
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\obj\Debug\Coffee_POS.Properties.Resources.resources
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\obj\Debug\Coffee_POS.csproj.GenerateResource.Cache
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\obj\Debug\Coffee_POS.csproj.CoreCompileInputs.cache
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\obj\Debug\Coffee_POS.exe
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\obj\Debug\Coffee_POS.pdb
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\obj\Debug\Coffee_POS.Menu.resources
+C:\Users\Zak\Desktop\Coffee_POS\Coffee_POS\obj\Debug\Coffee_POS.csprojResolveAssemblyReference.cache
